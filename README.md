@@ -11,5 +11,3 @@ I’m a second-year Computer Science student passionate about problem-solving, a
 ![](https://github-readme-stats.shion.dev/api?username=ashishkr-001&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashishkr-001&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishkr-001&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

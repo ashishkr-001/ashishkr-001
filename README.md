@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year Computer Science student passionate about problem-solving, algorithms, and building practical projects from the ground up. I enjoy exploring new technologies, strengthening my programming skills, and turning ideas into thoughtful, reliable solutions.
+I’m a 2nd year Computer Science student passionate about problem-solving, algorithms, and building practical projects from the ground up. I enjoy exploring new technologies, strengthening my programming skills, and turning ideas into thoughtful, reliable solutions.
 
 
 ## 🌐 Socials:
